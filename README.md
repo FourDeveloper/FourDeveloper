@@ -50,16 +50,13 @@ If you like what I do, maybe consider buying me a book/coffee 🥺👉👈
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  7,111 Karma Points           
+🏆  1,000 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 543 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
 
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
