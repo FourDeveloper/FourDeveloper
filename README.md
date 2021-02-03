@@ -50,10 +50,10 @@ If you like what I do, maybe consider buying me a book/coffee 🥺👉👈
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  1,000 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 543 tasks so far           
-⏳  Longest streak is 10 days
+🏆  1,000 Karma Points      
+🏆  Learn Russian / Chinese
+🏆  ... 
+
 <!-- TODO-IST:END -->
 
 
