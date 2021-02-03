@@ -15,7 +15,7 @@ Hi, I'm Four!, a passionate self-taught programmer and mathematician 🚀 from g
 **Talking about Personal Stuffs:**
 
 - 👨‍🚀 I’m currently working on something special;
-- 🌱 I’m currently learning JavaScript; 
+- 🌱 I’m currently learning C++; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Four#4004](https://discord.com/);
 - 📝[Resume](Link On progress)
