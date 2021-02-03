@@ -4,7 +4,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
 
 <br />
 
@@ -14,13 +14,13 @@ Hi, I'm Four!, a passionate self-taught programmer and mathematician 🚀 from g
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
+- 👨‍🚀 I’m currently working on something special :wink:;
+- 🌱 I’m currently learning JavaScript; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 📫 How to reach me: [Four#4004](https://discord.com/);
+- 📝[Resume](Link On progress)
 
-**Languages and Tools:**  
+**Languages Goals and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -36,17 +36,17 @@ Hi, I'm Four!, a passionate self-taught programmer and mathematician 🚀 from g
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C++        14 hrs 35 mins  █████████████████████▓░░░   86.71 % 
+JS         14 hrs 35 mins  █████████████████████▓░░░   86.71 % 
 HTML       1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 Markdown   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 Text       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-YAML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+XML        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider buying me a book/coffee 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/Four" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Book or Coffee" width="150" ></a>
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
