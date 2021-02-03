@@ -8,9 +8,9 @@
 
 <br />
 
-Hi, I'm [Four!], a passionate self-taught programmer and mathematician 🚀 from germany.
+Hi, I'm Four!, a passionate self-taught programmer and mathematician 🚀 from germany.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/FourDeveloper/FourDeveloper/main/me.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
