@@ -1,14 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/cb3Kf3HH">
-  <img align="left" alt="Four's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-
-
-
-
+  <img align="left" alt="Four's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> 
+</a>Hi, I'm Four!, a passionate self-taught programmer and tinkerer.
 <br />
 
-Hi, I'm Four!, a passionate self-taught programmer and tinkerer.
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/FourDeveloper/FourDeveloper/main/me.gif" width="500" height="320" />
   
