@@ -8,7 +8,7 @@
 
 <br />
 
-Hi, I'm Four!, a passionate self-taught programmer and mathematician 🚀 from germany.
+Hi, I'm Four!, a passionate self-taught programmer and tinkerer.
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/FourDeveloper/FourDeveloper/main/me.gif" width="500" height="320" />
   
@@ -17,7 +17,7 @@ Hi, I'm Four!, a passionate self-taught programmer and mathematician 🚀 from g
 - 👨‍🚀 I’m currently working on something special;
 - 🌱 I’m currently learning C++; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Four#4004](https://discord.com/);
+- 📫 How to reach me: [Four#3117](https://discord.com/);
 - 📝[Resume](Link On progress)
 
 **Languages Goals and Tools:**  
@@ -44,7 +44,7 @@ XML        8 mins          ▒░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a book/coffee 🥺👉👈
+If you like what I do, you can support me by buying a book/coffee 💖
 
 <a href="https://www.buymeacoffee.com/Four" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Book or Coffee" width="150" ></a>
 
