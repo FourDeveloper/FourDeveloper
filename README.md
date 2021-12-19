@@ -20,16 +20,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JS         14 hrs 35 mins  █████████████████████▓░░░   86.71 % 
-HTML       1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Markdown   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Text       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-XML        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-```
-<!--END_SECTION:waka-->
 
 If you like what I do, you can support me by buying a book/coffee 💖
 
